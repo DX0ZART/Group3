@@ -4,8 +4,8 @@ QMSS5074GR - Project 3
 
 ## Team Information
 - **Group ID**: Group 3
-- **UNIs**: xl3456, yz4661
-- **Names**: Xiaole Liu, Evan Zhou
+- **UNIs**: xl3456, yz4661, lz3073
+- **Names**: Xiaole Liu, Evan Zhou, Leizu Zhang
 
 ## Project Overview
 
